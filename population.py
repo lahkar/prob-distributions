@@ -1,7 +1,6 @@
 #!/usr/local/bin/python
 
 from random import random
-from pprint import pprint
 
 numbers = []
 
